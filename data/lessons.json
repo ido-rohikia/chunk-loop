@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "sentence": "That was one of the best movies I have ever seen.",
+    "target_chunk": "one of the best movies I have ever seen",
+    "japanese": "今まで見た中で最高の映画の一つでした。",
+    "audio_filename": "001.wav"
+  },
+  {
+    "id": 2,
+    "sentence": "I need something to eat before we leave the house.",
+    "target_chunk": "something to eat",
+    "japanese": "家を出る前に何か食べるものが必要です。",
+    "audio_filename": "002.wav"
+  },
+  {
+    "id": 3,
+    "sentence": "Could you tell me how I can get to the nearest station?",
+    "target_chunk": "Could you tell me how",
+    "japanese": "最寄り駅への行き方を教えていただけますか。",
+    "audio_filename": "003.wav"
+  },
+  {
+    "id": 4,
+    "sentence": "I've been meaning to ask you about that for a while.",
+    "target_chunk": "I've been meaning to",
+    "japanese": "しばらく前からそのことを聞こうと思っていました。",
+    "audio_filename": "004.wav"
+  },
+  {
+    "id": 5,
+    "sentence": "I'm not sure if I'll be able to finish everything today.",
+    "target_chunk": "I'm not sure if",
+    "japanese": "今日すべて終えられるか分かりません。",
+    "audio_filename": "005.wav"
+  },
+  {
+    "id": 6,
+    "sentence": "Make sure you take everything with you before you leave.",
+    "target_chunk": "Make sure you",
+    "japanese": "出かける前に忘れ物がないようにしてください。",
+    "audio_filename": "006.wav"
+  },
+  {
+    "id": 7,
+    "sentence": "I'll let you know as soon as I find out what happened.",
+    "target_chunk": "I'll let you know",
+    "japanese": "何があったか分かり次第お知らせします。",
+    "audio_filename": "007.wav"
+  },
+  {
+    "id": 8,
+    "sentence": "I ended up staying home because I was too tired to go out.",
+    "target_chunk": "ended up staying home",
+    "japanese": "疲れすぎて出かけられず、結局家にいました。",
+    "audio_filename": "008.wav"
+  },
+  {
+    "id": 9,
+    "sentence": "I used to come here all the time when I was younger.",
+    "target_chunk": "used to come here",
+    "japanese": "若い頃はいつもここへ来ていました。",
+    "audio_filename": "009.wav"
+  },
+  {
+    "id": 10,
+    "sentence": "You're supposed to be there at least ten minutes before it starts.",
+    "target_chunk": "You're supposed to",
+    "japanese": "開始の少なくとも10分前には着くことになっています。",
+    "audio_filename": "010.wav"
+  },
+  {
+    "id": 11,
+    "sentence": "It depends on how much time we have before we need to leave.",
+    "target_chunk": "It depends on",
+    "japanese": "出発までにどれだけ時間があるかによります。",
+    "audio_filename": "011.wav"
+  },
+  {
+    "id": 12,
+    "sentence": "Would you mind telling me where you got that from?",
+    "target_chunk": "Would you mind telling me",
+    "japanese": "それをどこで手に入れたか教えていただけますか。",
+    "audio_filename": "012.wav"
+  },
+  {
+    "id": 13,
+    "sentence": "I brought something to read in case I had to wait.",
+    "target_chunk": "in case",
+    "japanese": "待つことになった場合に備えて読む物を持ってきました。",
+    "audio_filename": "013.wav"
+  },
+  {
+    "id": 14,
+    "sentence": "There's no point in worrying about something you can't change.",
+    "target_chunk": "There's no point in",
+    "japanese": "変えられないことを心配しても仕方ありません。",
+    "audio_filename": "014.wav"
+  },
+  {
+    "id": 15,
+    "sentence": "I'm really looking forward to seeing everyone again this weekend.",
+    "target_chunk": "looking forward to",
+    "japanese": "今週末また皆に会えるのをとても楽しみにしています。",
+    "audio_filename": "015.wav"
+  },
+  {
+    "id": 16,
+    "sentence": "I was wondering if you could help me with something.",
+    "target_chunk": "I was wondering if",
+    "japanese": "少し手伝っていただけないかと思いまして。",
+    "audio_filename": "016.wav"
+  },
+  {
+    "id": 17,
+    "sentence": "Do you happen to know where I can charge my phone?",
+    "target_chunk": "Do you happen to know",
+    "japanese": "どこで携帯を充電できるかご存じですか。",
+    "audio_filename": "017.wav"
+  },
+  {
+    "id": 18,
+    "sentence": "Let me know if there's anything I can do to help.",
+    "target_chunk": "Let me know if",
+    "japanese": "何か手伝えることがあれば知らせてください。",
+    "audio_filename": "018.wav"
+  },
+  {
+    "id": 19,
+    "sentence": "I don't know whether I'll have enough time to stop by.",
+    "target_chunk": "I don't know whether",
+    "japanese": "立ち寄る時間が十分あるか分かりません。",
+    "audio_filename": "019.wav"
+  },
+  {
+    "id": 20,
+    "sentence": "As long as the weather is good, we can eat outside.",
+    "target_chunk": "As long as",
+    "japanese": "天気が良ければ外で食べられます。",
+    "audio_filename": "020.wav"
+  },
+  {
+    "id": 21,
+    "sentence": "Even though I was tired, I stayed up to watch the end.",
+    "target_chunk": "Even though",
+    "japanese": "疲れていましたが、最後まで見るために起きていました。",
+    "audio_filename": "021.wav"
+  },
+  {
+    "id": 22,
+    "sentence": "I'd rather stay home tonight than go somewhere crowded.",
+    "target_chunk": "I'd rather stay home tonight than",
+    "japanese": "今夜は混雑した所へ行くより家にいたいです。",
+    "audio_filename": "022.wav"
+  },
+  {
+    "id": 23,
+    "sentence": "By the time we got there, the store had already closed.",
+    "target_chunk": "By the time",
+    "japanese": "着いた頃には店はもう閉まっていました。",
+    "audio_filename": "023.wav"
+  },
+  {
+    "id": 24,
+    "sentence": "The reason why I called was to ask you a quick question.",
+    "target_chunk": "The reason why",
+    "japanese": "電話したのはちょっと質問したかったからです。",
+    "audio_filename": "024.wav"
+  },
+  {
+    "id": 25,
+    "sentence": "That's exactly what I was trying to tell you earlier.",
+    "target_chunk": "That's exactly what",
+    "japanese": "それこそ先ほど伝えようとしていたことです。",
+    "audio_filename": "025.wav"
+  },
+  {
+    "id": 26,
+    "sentence": "What I mean is that we don't have to decide right now.",
+    "target_chunk": "What I mean is",
+    "japanese": "つまり、今すぐ決めなくてもよいということです。",
+    "audio_filename": "026.wav"
+  },
+  {
+    "id": 27,
+    "sentence": "It turns out that we had been waiting in the wrong place.",
+    "target_chunk": "It turns out that",
+    "japanese": "実は私たちは間違った場所で待っていました。",
+    "audio_filename": "027.wav"
+  },
+  {
+    "id": 28,
+    "sentence": "I didn't realize how much time had passed until I checked my phone.",
+    "target_chunk": "I didn't realize how much time had passed",
+    "japanese": "携帯を見るまで、こんなに時間がたったことに気づきませんでした。",
+    "audio_filename": "028.wav"
+  },
+  {
+    "id": 29,
+    "sentence": "It's not as difficult as it looks once you get used to it.",
+    "target_chunk": "It's not as difficult as it looks",
+    "japanese": "慣れてしまえば見た目ほど難しくありません。",
+    "audio_filename": "029.wav"
+  },
+  {
+    "id": 30,
+    "sentence": "It took me a while to figure out what was wrong.",
+    "target_chunk": "It took me a while to",
+    "japanese": "何が悪いのか分かるまで少し時間がかかりました。",
+    "audio_filename": "030.wav"
+  },
+  {
+    "id": 31,
+    "sentence": "I don't feel like cooking tonight, so let's get something delivered.",
+    "target_chunk": "I don't feel like",
+    "japanese": "今夜は料理する気になれないので、何か配達してもらいましょう。",
+    "audio_filename": "031.wav"
+  },
+  {
+    "id": 32,
+    "sentence": "This place is definitely worth visiting if you're in the area.",
+    "target_chunk": "worth visiting",
+    "japanese": "この辺りに来たら、この場所はぜひ訪れる価値があります。",
+    "audio_filename": "032.wav"
+  },
+  {
+    "id": 33,
+    "sentence": "I'm used to getting up early, so it doesn't bother me much.",
+    "target_chunk": "I'm used to",
+    "japanese": "早起きには慣れているので、あまり苦になりません。",
+    "audio_filename": "033.wav"
+  },
+  {
+    "id": 34,
+    "sentence": "It took me a few weeks to get used to the new schedule.",
+    "target_chunk": "get used to",
+    "japanese": "新しい予定に慣れるまで数週間かかりました。",
+    "audio_filename": "034.wav"
+  },
+  {
+    "id": 35,
+    "sentence": "I can't help laughing every time I think about what happened.",
+    "target_chunk": "can't help laughing",
+    "japanese": "その出来事を思い出すたびに笑わずにはいられません。",
+    "audio_filename": "035.wav"
+  },
+  {
+    "id": 36,
+    "sentence": "We might as well leave now before the traffic gets worse.",
+    "target_chunk": "might as well",
+    "japanese": "渋滞がひどくなる前に、もう出発した方がよさそうです。",
+    "audio_filename": "036.wav"
+  },
+  {
+    "id": 37,
+    "sentence": "If I were you, I'd wait a little longer before deciding.",
+    "target_chunk": "If I were you",
+    "japanese": "私なら、決める前にもう少し待ちます。",
+    "audio_filename": "037.wav"
+  },
+  {
+    "id": 38,
+    "sentence": "The more I think about it, the more I like the idea.",
+    "target_chunk": "The more I think about it",
+    "japanese": "考えれば考えるほど、その案が気に入ります。",
+    "audio_filename": "038.wav"
+  },
+  {
+    "id": 39,
+    "sentence": "Whether or not we go depends on how everyone is feeling.",
+    "target_chunk": "Whether or not",
+    "japanese": "行くかどうかは皆の気分次第です。",
+    "audio_filename": "039.wav"
+  },
+  {
+    "id": 40,
+    "sentence": "No matter how busy I am, I try to make time for breakfast.",
+    "target_chunk": "No matter how",
+    "japanese": "どれほど忙しくても、朝食の時間を作るようにしています。",
+    "audio_filename": "040.wav"
+  },
+  {
+    "id": 41,
+    "sentence": "As far as I know, the restaurant is still open on Sundays.",
+    "target_chunk": "As far as I know",
+    "japanese": "私の知る限り、そのレストランは日曜も営業しています。",
+    "audio_filename": "041.wav"
+  },
+  {
+    "id": 42,
+    "sentence": "At least we have enough time to grab a coffee before we leave.",
+    "target_chunk": "At least",
+    "japanese": "少なくとも出発前にコーヒーを飲む時間はあります。",
+    "audio_filename": "042.wav"
+  },
+  {
+    "id": 43,
+    "sentence": "At first I wasn't sure, but in the end I really enjoyed it.",
+    "target_chunk": "At first I wasn't sure",
+    "japanese": "最初は迷いましたが、結局とても楽しめました。",
+    "audio_filename": "043.wav"
+  },
+  {
+    "id": 44,
+    "sentence": "I ran into an old friend on the way home from work.",
+    "target_chunk": "ran into",
+    "japanese": "仕事帰りに昔の友人と偶然会いました。",
+    "audio_filename": "044.wav"
+  },
+  {
+    "id": 45,
+    "sentence": "By the way, did you ever find the keys you were looking for?",
+    "target_chunk": "By the way",
+    "japanese": "ところで、探していた鍵は見つかりましたか。",
+    "audio_filename": "045.wav"
+  },
+  {
+    "id": 46,
+    "sentence": "I haven't seen her for a while, so I'd love to catch up.",
+    "target_chunk": "for a while",
+    "japanese": "しばらく彼女に会っていないので、近況を話したいです。",
+    "audio_filename": "046.wav"
+  },
+  {
+    "id": 47,
+    "sentence": "I'll take care of it right away so you don't have to worry.",
+    "target_chunk": "take care of",
+    "japanese": "心配しなくてよいように、すぐ私が対応します。",
+    "audio_filename": "047.wav"
+  },
+  {
+    "id": 48,
+    "sentence": "All of a sudden, it started raining much harder than before.",
+    "target_chunk": "All of a sudden",
+    "japanese": "突然、雨がずっと激しく降り始めました。",
+    "audio_filename": "048.wav"
+  },
+  {
+    "id": 49,
+    "sentence": "Once in a while, I like to spend a whole day doing nothing.",
+    "target_chunk": "Once in a while",
+    "japanese": "時々、丸一日何もしないで過ごすのが好きです。",
+    "audio_filename": "049.wav"
+  },
+  {
+    "id": 50,
+    "sentence": "I only need a couple of minutes to finish what I'm doing.",
+    "target_chunk": "a couple of minutes",
+    "japanese": "今していることを終えるのに数分だけ必要です。",
+    "audio_filename": "050.wav"
+  },
+  {
+    "id": 51,
+    "sentence": "There should be plenty of time to get there before it starts.",
+    "target_chunk": "plenty of time",
+    "japanese": "始まる前に着く時間は十分あるはずです。",
+    "audio_filename": "051.wav"
+  },
+  {
+    "id": 52,
+    "sentence": "Most of the time, I just have coffee and toast for breakfast.",
+    "target_chunk": "Most of the time",
+    "japanese": "たいてい朝食はコーヒーとトーストだけです。",
+    "audio_filename": "052.wav"
+  },
+  {
+    "id": 53,
+    "sentence": "Every time I go there, I end up buying something I don't need.",
+    "target_chunk": "Every time",
+    "japanese": "そこへ行くたび、結局不要な物を買ってしまいます。",
+    "audio_filename": "053.wav"
+  },
+  {
+    "id": 54,
+    "sentence": "One thing I really like about this place is how quiet it is.",
+    "target_chunk": "One thing I really like about",
+    "japanese": "この場所で特に好きなのは静かなところです。",
+    "audio_filename": "054.wav"
+  },
+  {
+    "id": 55,
+    "sentence": "The first thing I do in the morning is check the weather.",
+    "target_chunk": "The first thing I do",
+    "japanese": "朝一番にすることは天気の確認です。",
+    "audio_filename": "055.wav"
+  },
+  {
+    "id": 56,
+    "sentence": "What if we meet a little earlier and have lunch first?",
+    "target_chunk": "What if",
+    "japanese": "少し早めに会って、先に昼食を食べるのはどうですか。",
+    "audio_filename": "056.wav"
+  },
+  {
+    "id": 57,
+    "sentence": "How come you never told me that you had already been there?",
+    "target_chunk": "How come",
+    "japanese": "もう行ったことがあるとなぜ教えてくれなかったのですか。",
+    "audio_filename": "057.wav"
+  },
+  {
+    "id": 58,
+    "sentence": "I don't know why it took me so long to notice that.",
+    "target_chunk": "I don't know why",
+    "japanese": "なぜ気づくのにこんなに時間がかかったのか分かりません。",
+    "audio_filename": "058.wav"
+  },
+  {
+    "id": 59,
+    "sentence": "Do you mean we have to make a reservation in advance?",
+    "target_chunk": "Do you mean",
+    "japanese": "事前に予約しなければならないということですか。",
+    "audio_filename": "059.wav"
+  },
+  {
+    "id": 60,
+    "sentence": "What do you think of the new café that opened near the station?",
+    "target_chunk": "What do you think of",
+    "japanese": "駅の近くに開店した新しいカフェをどう思いますか。",
+    "audio_filename": "060.wav"
+  },
+  {
+    "id": 61,
+    "sentence": "What's it like living in a place where it snows that much?",
+    "target_chunk": "What's it like",
+    "japanese": "それほど雪が降る場所での暮らしはどんな感じですか。",
+    "audio_filename": "061.wav"
+  },
+  {
+    "id": 62,
+    "sentence": "How long have you been thinking about changing your job?",
+    "target_chunk": "How long have you been",
+    "japanese": "転職をどれくらい前から考えていますか。",
+    "audio_filename": "062.wav"
+  },
+  {
+    "id": 63,
+    "sentence": "When was the last time you went somewhere just for fun?",
+    "target_chunk": "When was the last time",
+    "japanese": "最後に純粋に楽しむために出かけたのはいつですか。",
+    "audio_filename": "063.wav"
+  },
+  {
+    "id": 64,
+    "sentence": "It's been a long time since we all had dinner together.",
+    "target_chunk": "It's been a long time since",
+    "japanese": "皆で夕食を食べてからずいぶん経ちました。",
+    "audio_filename": "064.wav"
+  },
+  {
+    "id": 65,
+    "sentence": "Have you ever tried making this kind of bread at home?",
+    "target_chunk": "Have you ever tried",
+    "japanese": "この種類のパンを家で作ったことはありますか。",
+    "audio_filename": "065.wav"
+  },
+  {
+    "id": 66,
+    "sentence": "I haven't decided what to do this weekend yet.",
+    "target_chunk": "I haven't decided what to do",
+    "japanese": "今週末何をするかまだ決めていません。",
+    "audio_filename": "066.wav"
+  },
+  {
+    "id": 67,
+    "sentence": "I've already seen that episode, but I don't mind watching it again.",
+    "target_chunk": "I've already",
+    "japanese": "その回はもう見ましたが、もう一度見ても構いません。",
+    "audio_filename": "067.wav"
+  },
+  {
+    "id": 68,
+    "sentence": "I wish I had more time to read before going to bed.",
+    "target_chunk": "I wish I had",
+    "japanese": "寝る前に読書する時間がもっとあればと思います。",
+    "audio_filename": "068.wav"
+  },
+  {
+    "id": 69,
+    "sentence": "I hope everything goes well with your appointment tomorrow.",
+    "target_chunk": "I hope everything goes well",
+    "japanese": "明日の診察がすべてうまくいくといいですね。",
+    "audio_filename": "069.wav"
+  },
+  {
+    "id": 70,
+    "sentence": "I'm afraid I won't be able to make it there by six.",
+    "target_chunk": "I'm afraid",
+    "japanese": "残念ながら6時までには着けそうにありません。",
+    "audio_filename": "070.wav"
+  },
+  {
+    "id": 71,
+    "sentence": "I'm glad you told me before I made the same mistake.",
+    "target_chunk": "I'm glad",
+    "japanese": "同じ間違いをする前に教えてくれてよかったです。",
+    "audio_filename": "071.wav"
+  },
+  {
+    "id": 72,
+    "sentence": "I'm sorry to hear that things didn't go the way you expected.",
+    "target_chunk": "I'm sorry to hear that",
+    "japanese": "物事が期待どおりに進まなかったと聞いて残念です。",
+    "audio_filename": "072.wav"
+  },
+  {
+    "id": 73,
+    "sentence": "Thanks for taking the time to explain everything so clearly.",
+    "target_chunk": "Thanks for taking the time to",
+    "japanese": "時間を取って分かりやすく説明してくれてありがとうございます。",
+    "audio_filename": "073.wav"
+  },
+  {
+    "id": 74,
+    "sentence": "Sorry for keeping you waiting longer than I expected.",
+    "target_chunk": "Sorry for keeping you waiting",
+    "japanese": "予想より長くお待たせしてすみません。",
+    "audio_filename": "074.wav"
+  },
+  {
+    "id": 75,
+    "sentence": "I had trouble finding a place to park near the restaurant.",
+    "target_chunk": "had trouble finding",
+    "japanese": "レストランの近くで駐車場所を探すのに苦労しました。",
+    "audio_filename": "075.wav"
+  },
+  {
+    "id": 76,
+    "sentence": "I spent most of the afternoon cleaning up around the house.",
+    "target_chunk": "spent most of the afternoon",
+    "japanese": "午後の大半を家の片付けに費やしました。",
+    "audio_filename": "076.wav"
+  },
+  {
+    "id": 77,
+    "sentence": "Instead of taking a taxi, we decided to walk back to the hotel.",
+    "target_chunk": "Instead of",
+    "japanese": "タクシーに乗らず、ホテルまで歩いて戻ることにしました。",
+    "audio_filename": "077.wav"
+  },
+  {
+    "id": 78,
+    "sentence": "He left without saying anything, which was a little strange.",
+    "target_chunk": "without saying anything",
+    "japanese": "彼は何も言わずに帰ったので、少し不思議でした。",
+    "audio_filename": "078.wav"
+  },
+  {
+    "id": 79,
+    "sentence": "Before leaving the house, make sure all the windows are closed.",
+    "target_chunk": "Before leaving",
+    "japanese": "家を出る前に、すべての窓が閉まっているか確認してください。",
+    "audio_filename": "079.wav"
+  },
+  {
+    "id": 80,
+    "sentence": "After talking to her, I felt much better about the situation.",
+    "target_chunk": "After talking to",
+    "japanese": "彼女と話した後、その状況についてかなり気が楽になりました。",
+    "audio_filename": "080.wav"
+  },
+  {
+    "id": 81,
+    "sentence": "I keep forgetting where I put my glasses when I get home.",
+    "target_chunk": "keep forgetting",
+    "japanese": "帰宅すると眼鏡をどこに置いたかいつも忘れてしまいます。",
+    "audio_filename": "081.wav"
+  },
+  {
+    "id": 82,
+    "sentence": "I stopped checking my phone so often when I started reading more.",
+    "target_chunk": "stopped checking",
+    "japanese": "読書を増やしてから、携帯を頻繁に確認しなくなりました。",
+    "audio_filename": "082.wav"
+  },
+  {
+    "id": 83,
+    "sentence": "I started to notice the difference after using it for a few days.",
+    "target_chunk": "started to notice",
+    "japanese": "数日使ってから違いに気づき始めました。",
+    "audio_filename": "083.wav"
+  },
+  {
+    "id": 84,
+    "sentence": "I tried to call you, but it went straight to voicemail.",
+    "target_chunk": "went straight to voicemail",
+    "japanese": "電話してみましたが、すぐ留守番電話につながりました。",
+    "audio_filename": "084.wav"
+  },
+  {
+    "id": 85,
+    "sentence": "Remember to bring a jacket because it might get cold later.",
+    "target_chunk": "Remember to",
+    "japanese": "後で寒くなるかもしれないので上着を忘れずに持ってきてください。",
+    "audio_filename": "085.wav"
+  },
+  {
+    "id": 86,
+    "sentence": "Don't forget to send me the address when you get a chance.",
+    "target_chunk": "Don't forget to",
+    "japanese": "時間があるときに住所を送るのを忘れないでください。",
+    "audio_filename": "086.wav"
+  },
+  {
+    "id": 87,
+    "sentence": "We decided to leave early so we wouldn't get stuck in traffic.",
+    "target_chunk": "so we wouldn't",
+    "japanese": "渋滞に巻き込まれないよう早く出発することにしました。",
+    "audio_filename": "087.wav"
+  },
+  {
+    "id": 88,
+    "sentence": "I'm planning to take a few days off sometime next month.",
+    "target_chunk": "I'm planning to",
+    "japanese": "来月のどこかで数日休む予定です。",
+    "audio_filename": "088.wav"
+  },
+  {
+    "id": 89,
+    "sentence": "I managed to finish everything before everyone else arrived.",
+    "target_chunk": "managed to finish",
+    "japanese": "皆が着く前になんとか全部終えました。",
+    "audio_filename": "089.wav"
+  },
+  {
+    "id": 90,
+    "sentence": "I wasn't expecting it to be so crowded on a weekday.",
+    "target_chunk": "wasn't expecting",
+    "japanese": "平日なのにこんなに混んでいるとは思いませんでした。",
+    "audio_filename": "090.wav"
+  },
+  {
+    "id": 91,
+    "sentence": "There's no way I can carry all of this by myself.",
+    "target_chunk": "There's no way",
+    "japanese": "これを全部一人で運ぶのはとても無理です。",
+    "audio_filename": "091.wav"
+  },
+  {
+    "id": 92,
+    "sentence": "She seems to know exactly what to say in situations like that.",
+    "target_chunk": "seems to know",
+    "japanese": "彼女はそういう状況で何を言うべきかよく分かっているようです。",
+    "audio_filename": "092.wav"
+  },
+  {
+    "id": 93,
+    "sentence": "I was about to leave when I realized I had forgotten my wallet.",
+    "target_chunk": "was about to leave",
+    "japanese": "出ようとしたとき、財布を忘れたことに気づきました。",
+    "audio_filename": "093.wav"
+  },
+  {
+    "id": 94,
+    "sentence": "He's likely to be busy this afternoon, so try calling later.",
+    "target_chunk": "likely to be",
+    "japanese": "彼は今日の午後は忙しそうなので、後で電話してください。",
+    "audio_filename": "094.wav"
+  },
+  {
+    "id": 95,
+    "sentence": "Would you like me to pick something up on my way home?",
+    "target_chunk": "Would you like me to",
+    "japanese": "帰宅途中に何か買ってきましょうか。",
+    "audio_filename": "095.wav"
+  },
+  {
+    "id": 96,
+    "sentence": "Do you want me to show you how this works?",
+    "target_chunk": "Do you want me to",
+    "japanese": "これの使い方をお見せしましょうか。",
+    "audio_filename": "096.wav"
+  },
+  {
+    "id": 97,
+    "sentence": "Can you tell me what time we're supposed to meet tomorrow?",
+    "target_chunk": "Can you tell me what time",
+    "japanese": "明日は何時に会うことになっているか教えてもらえますか。",
+    "audio_filename": "097.wav"
+  },
+  {
+    "id": 98,
+    "sentence": "Could you let me know when you're ready to leave?",
+    "target_chunk": "Could you let me know",
+    "japanese": "出発の準備ができたら知らせてもらえますか。",
+    "audio_filename": "098.wav"
+  },
+  {
+    "id": 99,
+    "sentence": "Is there anything else you need me to bring with me?",
+    "target_chunk": "Is there anything else",
+    "japanese": "ほかに持ってきてほしい物はありますか。",
+    "audio_filename": "099.wav"
+  },
+  {
+    "id": 100,
+    "sentence": "I don't mind waiting a little longer if you're not ready yet.",
+    "target_chunk": "I don't mind waiting",
+    "japanese": "まだ準備ができていなければ、もう少し待っても構いません。",
+    "audio_filename": "100.wav"
+  }
+]
